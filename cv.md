@@ -12,3 +12,5 @@ I am a radio engineer
 * Git
 ## Education
 Samara State Aerospace university, faculty (№5) of Radio engineering
+## Englich
+A1 (Beginner)
