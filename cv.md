@@ -10,3 +10,5 @@ I am a radio engineer
 ## Skills
 * Html
 * Git
+## Education
+Samara State Aerospace university, faculty (№5) of Radio engineering
