@@ -7,3 +7,6 @@
 * Discord: Marat1986#2807
 ## About me
 I am a radio engineer
+## Skills
+* Html
+* Git
